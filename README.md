@@ -21,15 +21,19 @@ I am a passionate Backend Developer, driven by a curiosity for technology and pr
 [![Behance Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/behance.svg)](https://www.behance.net/dineshbaral) &nbsp;&nbsp;&nbsp;
 
 
-### :hammer_and_wrench: Languages and Tools :
-![My Skills](https://skillicons.dev/icons?i=html,css,js)<br> 
-![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,xd)<br>
-![My Skills](https://skillicons.dev/icons?i=php,laravel)<br>
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres)<br>
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)<br>
-![My Skills](https://skillicons.dev/icons?i=vscode,postman)<br>
-
 ## 🌱 Currently Exploring
+
   - Possibilities of QR Code in Digital Marketing and Advertisements
+
+
+### :hammer_and_wrench: Languages and Tools :
+
+- **Design:** ![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,xd)
+- **Frontend:** ![My Skills](https://skillicons.dev/icons?i=html,css,js)
+- **Backend:** ![My Skills](https://skillicons.dev/icons?i=php,laravel)
+- **Database:** ![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
+- **Tools:** ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
+- **Other:** ![My Skills](https://skillicons.dev/icons?i=vscode,postman)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
