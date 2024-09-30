@@ -2,8 +2,7 @@
 
 I am a passionate Backend Developer from Nepal <img src="https://camo.githubusercontent.com/b0515f00aebd4f76b5aab2601347ad35bc0e1ad56950e8f4772c831f0cf6ba3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61332f35632f63302f61333563633038663330653833623030356239343562316638336630656133372e676966" width="12">, driven by a curiosity for technology and problem-solving through codes.  
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=d-baral&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-baral&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=d-baral&theme=react)](https://git.io/streak-stats)
 
 ## 🚀 About Me
 
