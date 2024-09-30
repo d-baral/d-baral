@@ -18,7 +18,7 @@ I am a passionate Backend Developer, driven by a curiosity for technology and pr
 [![Facebook Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/facebook.svg)](https://www.facebook.com/dinz.111)
 [![Instagram Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/instagram.svg)](https://www.instagram.com/dinz.111/)
 [![LinkedIn Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/linkedin.svg)](https://www.linkedin.com/in/d-baral/)
-[![Behance Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/behance.svg)](https://www.behance.net/dineshbaral)
+[![Behance Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/behance_icon.svg)](https://www.behance.net/dineshbaral)
 
 
 ### :hammer_and_wrench: Languages and Tools :
