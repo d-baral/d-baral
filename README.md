@@ -27,6 +27,20 @@ I am a passionate Backend Developer from Nepal <img src="https://camo.githubuser
 
 ### :hammer_and_wrench: Languages and Tools :
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,figma,xd,html,css,js,php,laravel,livewire,mysql,postgres,git,github,gitlab,vscode,postman)
+- Design <br>
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,figma,xd)
 
+- Frontend <br>
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
+  
+- Backend <br>
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,livewire)
+
+- Database <br>
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres)
+  
+- Other <br>
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vscode,postman)
+
+  
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
