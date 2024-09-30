@@ -3,52 +3,40 @@
 I am a passionate Backend Developer, driven by a curiosity for technology and problem-solving through codes.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=d-baral&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-baral&layout=compact)
 
 ## 🚀 About Me
 
 - 🔭 I'm a B.Sc. Computer Science & Information Technology Graduate
-- 🌐 Take a look at my website <a href="https://www.dineshbaral.com.np/">Personal Website</a>
+- 🌐 Take a look at my <a href="https://www.dineshbaral.com.np/">Website</a>
+- 💻 I’m currently working on Laravel
+- 📫 How to reach me: <a href="mailto:dbaral8848@gmail.com">dbaral8848@gmail.com</a>
+- ⚡ Fun fact: I like to play flute 🎶
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### :hammer_and_wrench: Languages and Tools :
+![My Skills](https://skillicons.dev/icons?i=html,css,js)<br> 
+![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,xd)<br>
+![My Skills](https://skillicons.dev/icons?i=php,laravel)<br>
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres)<br>
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)<br>
+![My Skills](https://skillicons.dev/icons?i=vscode,postman)<br>
 
 ## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+  - Possibilities of QR Code in Digital Marketing and Advertisements
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+<div id="badges">
+  <a href="https://www.facebook.com/dinz.111">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/dinz.111/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/d-baral/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
