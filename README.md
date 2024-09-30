@@ -13,6 +13,13 @@ I am a passionate Backend Developer, driven by a curiosity for technology and pr
 - 📫 How to reach me: <a href="mailto:dbaral8848@gmail.com">dbaral8848@gmail.com</a>
 - ⚡ Fun fact: I like to play flute 🎶
 
+## 📬 Get in Touch
+
+[![Facebook Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/facebook.svg)](https://www.facebook.com/dinz.111)
+[![Instagram Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/instagram.svg)](https://www.instagram.com/dinz.111/)
+[![LinkedIn Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/linkedin.svg)](https://www.linkedin.com/in/d-baral/)
+[![Behance Badge](https://raw.githubusercontent.com/d-baral/d-baral/main/behance.svg)](https://www.behance.net/dineshbaral)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)<br> 
@@ -24,19 +31,5 @@ I am a passionate Backend Developer, driven by a curiosity for technology and pr
 
 ## 🌱 Currently Exploring
   - Possibilities of QR Code in Digital Marketing and Advertisements
-
-## 📬 Get in Touch
-
-<div id="badges">
-  <a href="https://www.facebook.com/dinz.111">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/dinz.111/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/d-baral/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
